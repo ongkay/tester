@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "One Dark Darker",
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontSize": 13,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
+  

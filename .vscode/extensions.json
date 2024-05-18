@@ -2,6 +2,24 @@
     "recommendations": [
         "esbenp.prettier-vscode",
         "mohsen1.prettify-json",
-        "wallabyjs.quokka-vscode"
+        "wallabyjs.quokka-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "beardedbear.beardedicons",
+        "beardedbear.beardedtheme",
+        "xabikos.javascriptsnippets",
+        "afifu.vscode-js-ts-react-nextjs-snippets",
+        "joelcrosby.one-dark-darker",
+        "zhuangtongfa.material-theme",
+        "vscode-icons-team.vscode-icons",
+        "bracketpaircolordlw.bracket-pair-color-dlw",
+        "pranaygp.vscode-css-peek",
+        "irongeek.vscode-env",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "keshan.markdown-live",
+        "shd101wyy.markdown-preview-enhanced",
+        "christian-kohler.path-intellisense"
     ]
 }
